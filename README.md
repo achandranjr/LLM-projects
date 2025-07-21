@@ -3,24 +3,6 @@
 A collection of experiments, prototypes, and utilities involving Large Language Models (LLMs). This repository contains multiple sub-projects exploring prompt engineering, agent-based automation, fine-tuning, and retrieval-augmented generation (RAG), among other techniques. Each directory represents a standalone or modular experiment.
 
 
-
-## 🧠 Highlighted Projects
-
-### `computer_agent/`
-An agent that uses screenshots of a computer environment to interpret tasks and interact with the browser. Implements tool dispatching, action recognition, and a modular architecture for web-based automation.
-
-### `rag/`
-A working RAG (Retrieval-Augmented Generation) system built from scratch. Features include:
-- Chunked vector storage with similarity search
-- Query handling and document retrieval
-- Feedback and rating UI system
-
-### `fine_tune/`
-Contains scripts and datasets for fine-tuning LLMs on specialized instruction sets. Example: emulating historical figures' speech patterns or summarizing documents.
-
-### `web_agent/`
-Automates website interaction using Playwright and LLM tool selection. Supports secure logins using secrets managers like Bitwarden.
-
 ## 🛠 Setup Instructions
 
 1. **Clone the repo**
