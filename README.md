@@ -2,19 +2,7 @@
 
 A collection of experiments, prototypes, and utilities involving Large Language Models (LLMs). This repository contains multiple sub-projects exploring prompt engineering, agent-based automation, fine-tuning, and retrieval-augmented generation (RAG), among other techniques. Each directory represents a standalone or modular experiment.
 
-## 📁 Repository Structure
 
-```bash
-LLM-projects/
-├── autoform/            # Dynamic form filling with LLMs
-├── computer_agent/      # Agentic computer use via screenshots and browser tools
-├── fine_tune/           # Fine-tuning experiments with various datasets
-├── json_utils/          # Utilities for handling structured LLM outputs
-├── rag/                 # Retrieval-Augmented Generation implementation
-├── web_agent/           # Playwright-powered LLM web automation
-├── README.md            # You are here
-└── requirements.txt     # Shared dependencies across projects
-```
 
 ## 🧠 Highlighted Projects
 
