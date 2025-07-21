@@ -2,6 +2,7 @@
 
 A collection of experiments, prototypes, and utilities involving Large Language Models (LLMs). This repository contains multiple sub-projects exploring prompt engineering, agent-based automation, fine-tuning, and retrieval-augmented generation (RAG), among other techniques. Each directory represents a standalone or modular experiment.
 
+Each sub-folder contains detailed setup and usage instructions for its respective project
 
 ## 🛠 Setup Instructions
 
